@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="largeTextStyle">
+        <item name="android:fontFamily">@font/bison</item>
+        <item name="android:layout_marginHorizontal">@dimen/marginXS</item>
+        <item name="android:textSize">@dimen/textXL</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/midnightGray</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="mediumTextStyle">
+        <item name="android:fontFamily">@font/bison</item>
+        <item name="android:textSize">@dimen/textL</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/midnightGray</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="smallTextStyle">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textSize">@dimen/textXS</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/steelGray</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="fontFamily">@font/bison</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textL</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginXS">4dp</dimen>
+    <dimen name="marginS">8dp</dimen>
+    <dimen name="marginNormal">12dp</dimen>
+    <dimen name="dividerHeight">44dp</dimen>
+
+    <dimen name="cardHorizontalPadding">28dp</dimen>
+    <dimen name="cardVerticalPadding">11dp</dimen>
+
+    <dimen name="cardItemImageSize">64dp</dimen>
+
+    <dimen name="textXS">9sp</dimen>
+    <dimen name="textS">12sp</dimen>
+    <dimen name="textL">20sp</dimen>
+    <dimen name="textXL">36sp</dimen>
+</resources>
